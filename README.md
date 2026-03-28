@@ -16,7 +16,7 @@ Founder • Full-Stack Web Developer • Freelancer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-Stack+Web+Developer;Founder+of+Study-Buddie+ERP;Freelancer+%26+Product+Builder;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-Stack+Web+Developer;Founder+of+OYDA / Co-Founder+Localyse;Freelancer+%26+Product+Builder;Always+Learning+Always+Building" />
 </p>
 
 ---
